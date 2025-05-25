@@ -1,0 +1,1 @@
+# supertrunfo2.0.c
